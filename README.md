@@ -1,5 +1,4 @@
-# sum
-sum of any 2 numbers 
+# sum of any 2 numbers 
 a=int(input('enter any number'))
 b=int(input('enter any number'))
 c=a+b
